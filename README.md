@@ -4,7 +4,7 @@
 Track real-time air quality (PM2.5, PM10, US AQI) and weather across 8 Indian cities, with a pipeline that keeps updating itself automatically — not a one-time analysis of a static file.
 
 ## 📊 Live Demo
-[View the interactive dashboard →](PASTE_YOUR_STREAMLIT_LINK_HERE)
+[View the interactive dashboard →](https://india-aqi-weather-tracker.streamlit.app/)
 
 ## ⚙️ How the pipeline works
 1. **`scripts/backfill_history.py`** — run once locally. Pulls 30 days of hourly historical AQI + weather data per city from Open-Meteo (free, no API key) and loads it into a local SQLite database.
