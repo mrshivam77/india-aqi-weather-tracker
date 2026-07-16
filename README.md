@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Live-red)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automated-success)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An end-to-end data engineering and analytics project that automatically collects live air quality and weather data for major Indian cities, stores historical records in a SQLite database, and visualizes insights through an interactive Streamlit dashboard.
 
@@ -225,7 +224,3 @@ Unlike a typical Kaggle notebook that performs a one-time analysis on a static d
 - REST API for external integrations
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
