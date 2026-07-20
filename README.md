@@ -7,27 +7,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automated-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Last Commit](https://img.shields.io/github/last-commit/mrshivam77/india-aqi-weather-tracker?style=flat-square)
-![Repo Size](https://img.shields.io/github/repo-size/mrshivam77/india-aqi-weather-tracker?style=flat-square)
-![Stars](https://img.shields.io/github/stars/mrshivam77/india-aqi-weather-tracker?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-
 **A fully automated data pipeline that tracks live air quality & weather across 8 Indian cities — updated every hour, zero manual work.**
 
 [🔴 Live Dashboard](https://india-aqi-weather-tracker.streamlit.app/) · [🐛 Report Bug](https://github.com/mrshivam77/india-aqi-weather-tracker/issues) · [✨ Request Feature](https://github.com/mrshivam77/india-aqi-weather-tracker/issues)
-
-</div>
-
----
-
-### 📸 Quick Look
-
-<div align="center">
-
-<!-- Replace this with an actual screenshot or GIF of your dashboard -->
-<img src="docs/dashboard-preview.gif" alt="Dashboard preview" width="85%">
-
-<sub>*(Add a screenshot or screen-recording GIF of the live dashboard here — this is the single highest-impact change you can make to this README.)*</sub>
 
 </div>
 
